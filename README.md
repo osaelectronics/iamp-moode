@@ -1,22 +1,15 @@
-# TFT-MoodeCoverArt 
-*version = "0.0.5" : changes*
+# iAmp Moode-TFT 
 
-* radio icons location changed
-
-*version = "0.0.4" : changes*
-
-* added option to display cover art only without overlays (see config file for instructions)
-
-*version = "0.0.3" : changes*
+*version = "1.0.0" : 
 
 * added option to turn off backlight when mpd state = stop (see config file for instructions)
 
 -------------------------------------------------------
 
 
-Based on the look of the pirate audio plugin for mopidy.
+Based on the look of the pirate audio plugin for mopidy and Rusconi code.
 
-Works with Pimoroni pirate audio boards with 240*240 TFT (ST7789), as well as standalone ST7789 boards.
+Works with iAMP from OSA Electronics
 
 ![Sample Image](/pics/display.jpg)
 
