@@ -1,4 +1,4 @@
-# iAmp Moode-TFT 
+# iAmp Moode TFT 
 
 *version = "1.0.0" : 
 
